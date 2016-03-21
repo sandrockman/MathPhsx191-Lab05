@@ -1,0 +1,7 @@
+C:\Users\Default User.POSRegister1\Desktop\MathPhsx191Lab05\MathPhsx191Lab05\bin\Debug\MathPhsx191Lab05.exe.config
+I:\MATH_PHSX_4_GAMES\MathPhsx191Lab05\MathPhsx191Lab05\bin\Debug\MathPhsx191Lab05.exe.config
+I:\MATH_PHSX_4_GAMES\MathPhsx191Lab05\MathPhsx191Lab05\bin\Debug\MathPhsx191Lab05.exe
+I:\MATH_PHSX_4_GAMES\MathPhsx191Lab05\MathPhsx191Lab05\bin\Debug\MathPhsx191Lab05.pdb
+I:\MATH_PHSX_4_GAMES\MathPhsx191Lab05\MathPhsx191Lab05\obj\Debug\MathPhsx191Lab05.csprojResolveAssemblyReference.cache
+I:\MATH_PHSX_4_GAMES\MathPhsx191Lab05\MathPhsx191Lab05\obj\Debug\MathPhsx191Lab05.exe
+I:\MATH_PHSX_4_GAMES\MathPhsx191Lab05\MathPhsx191Lab05\obj\Debug\MathPhsx191Lab05.pdb
